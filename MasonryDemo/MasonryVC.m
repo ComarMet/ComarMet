@@ -24,6 +24,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     self.title = @"Masonry";
+    ///^//
+    //fdsafjldksajl
     self.view.backgroundColor = [UIColor whiteColor];
     [self.view addSubview:self.View1];
 
